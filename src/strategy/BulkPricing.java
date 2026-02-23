@@ -9,6 +9,6 @@ public class BulkPricing implements PricingStrategy {
 
     @Override
     public String getDescription() {
-        return "Descuento por compra en volumen 15%";
+        return "Descuento por volumen 15%";
     }
 }
